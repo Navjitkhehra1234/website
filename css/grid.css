@@ -5,8 +5,7 @@
   .row .column {
     float: left;
     margin: 10px 0;
-  }
-  
+  }  
   .row::after {
       content: "";
       display: table;

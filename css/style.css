@@ -22,8 +22,7 @@ h1 {
     height: 400px;
     transition: 2s;
     background: #8b8585;
-    right: -150px; 
-    
+    right: -150px;     
 }
 #mobile-menu.active {
     display: block;
